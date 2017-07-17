@@ -228,6 +228,12 @@ th {
   img {
     max-width: 100% !important;
   }
+
+p{
+
+  margin-left: 200px;
+}
+
   p,
   h2,
   h3 {
